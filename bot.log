@@ -1,0 +1,22 @@
+2025-07-09 19:50:14,849 INFO Client initialized
+2025-07-09 19:50:27,570 INFO Client initialized
+2025-07-09 19:50:27,997 ERROR Limit order failed: APIError(code=-4024): Limit price can't be lower than 54650.
+2025-07-09 19:52:01,090 INFO Client initialized
+2025-07-09 19:52:01,536 ERROR Limit order failed: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2025-07-09 19:53:54,763 INFO Client initialized
+2025-07-09 20:04:47,971 INFO Client initialized
+2025-07-09 20:07:25,547 INFO Client initialized
+2025-07-09 20:07:32,515 INFO Client initialized
+2025-07-09 20:08:42,048 INFO Client initialized
+2025-07-09 20:08:48,420 INFO Client initialized
+2025-07-09 20:08:48,824 ERROR Cancel order failed: APIError(code=-2011): Unknown order sent.
+2025-07-09 20:08:55,997 INFO Client initialized
+2025-07-09 20:09:02,081 INFO Client initialized
+2025-07-09 20:10:58,063 INFO Client initialized
+2025-07-09 20:11:02,760 INFO Client initialized
+2025-07-09 20:12:09,158 INFO Client initialized
+2025-07-09 20:12:09,597 ERROR Cancel order failed: APIError(code=-2011): Unknown order sent.
+2025-07-09 20:17:17,349 INFO Client initialized
+2025-07-09 20:17:23,151 INFO Client initialized
+2025-07-09 20:18:23,013 INFO Client initialized
+2025-07-09 20:18:30,682 INFO Client initialized
